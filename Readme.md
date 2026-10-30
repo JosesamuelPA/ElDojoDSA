@@ -1,4 +1,4 @@
-﻿# Repositorio de DSA
+﻿# ElDojoDSA - Repositorio de DSA
 ### Descripción
 Este repositorio es una recopilación de los problemas, katas y ejercicios
 que iré realizando como parte de mi desarrollo en lo que sería estructuras de 
